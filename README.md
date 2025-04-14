@@ -1,4 +1,6 @@
 # DGSW-Fighter
+![StartScene](https://github.com/dreamer603/DGSW-Fighter/blob/main/DGSWFIGHTER_Title.png)
+
 ## 실행 시 주의사항
 
 1. 실행 전 brew로 libmediainfo를 설치하셔야 합니다.
